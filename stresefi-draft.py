@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
         # Clear parent list
         parent_list = []
-git 
+ 
         for value in sentence:
 
             # Add value to hash table
